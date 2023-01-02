@@ -4,7 +4,7 @@
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
 
-<p align="center">I'm a student hacker.<br/>I specialize in Binary Exploitation and Reverse Engineering.<br> I also love building and designing projects.<br></p><br/>
+<p align="center">I'm a CTF Player.<br/>I specialize in Binary Exploitation and Reverse Engineering.<br> I also love building and designing projects.<br></p><br/>
 
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
